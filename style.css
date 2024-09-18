@@ -1,0 +1,19 @@
+body{
+    color:rgb(133, 58, 4);
+    background-color: rgb(58, 62, 48);
+    font-family:  "Sofadi One", system-ui;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+
+}
+
+button{
+   background-color: rgb(73, 25, 18);
+   color:rgb(133, 58, 4);
+   font-family:  "Sofadi One", system-ui;
+
+}
